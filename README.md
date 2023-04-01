@@ -6,7 +6,7 @@ Engineer, leader, consultant, software professional and tech enthusiast. Led tec
 
 #### Facts 📋
 
-- 🔭 I’m currently working as a Team Lead at [Primer.io](https://primer.io/)
+- 🔭 I’m currently working as an Engineering Manager at [Primer.io](https://primer.io/)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yyunikov/)
 
