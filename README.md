@@ -2,11 +2,13 @@
 
 #### About Me 💬 
 
-Engineer, leader, consultant, software professional and tech enthusiast. Led technical design, architecture, security and implementation of various production systems. Built and launched multiple successful products, developed a multiple Android apps, have experience and skills in leading engineering teams. Have a strong professional expertise in identity & access management, design & implementation of public APIs, CLI’s and building great developer experience.
+Experienced software engineering leader and consultant with proven record of building high-performance engineering teams. Led technical design, architecture, security, and implementation of various complex production systems.
+
+Have professional expertise in payments, data security, identity & access management, public API design, CLIs and building excellent developer experience. 
 
 #### Facts 📋
 
-- 🔭 I’m currently working as an Engineering Manager at [Primer.io](https://primer.io/)
+- 🔭 I’m currently working as a Senior Engineering Manager at [Primer.io](https://primer.io/)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yyunikov/)
 
