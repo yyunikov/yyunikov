@@ -2,9 +2,9 @@
 
 #### About Me 💬 
 
-Experienced software engineering leader and consultant with proven record of building high-performance engineering teams. Led technical design, architecture, security, and implementation of various complex production systems.
+Engineering leader with a track record of building high-performing teams, scaling engineering teams and large-scale platforms. Experienced in growing organizations, mentoring engineers and engineering managers, and improving reliability, performance, and engineering effectiveness.
 
-Have professional expertise in payments, data security, identity & access management, public API design, CLIs and building excellent developer experience. 
+Professional experience includes payments, distributed systems, public APIs, developer experience, security, and identity & access management.
 
 #### Facts 📋
 
